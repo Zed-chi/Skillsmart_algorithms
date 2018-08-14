@@ -1,2 +1,3 @@
 # Skillsmart_algorithms
-Algo tasks
+***
+Реализация базовых структур/алгоритмов на Python
